@@ -1,0 +1,3 @@
+rootProject.name = 'goat_man_4223'
+
+include ':app'
